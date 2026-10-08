@@ -1,0 +1,349 @@
+{
+  "version": "edit2-2026-10-02",
+  "source": "edit2.xlsx",
+  "months": [
+    {
+      "id": "m1",
+      "number": 1,
+      "date": "2026-10-01",
+      "title": "Responsible AI use",
+      "weeks": [
+        "Record how you currently use AI. Explain one recent assignment without AI. Begin the course introduction.",
+        "Write your own attempt before opening AI. Ask for hints and explanations. Study the course’s basic prompting lessons.",
+        "Check three AI claims against original sources. Open every reference used. Keep private information out of prompts.",
+        "Complete two short study sessions without AI each week. Close the tool and explain what you learned. Review with your sibling."
+      ],
+      "result": "One-page AI agreement, five use examples, and one corrected AI claim.",
+      "resource": {
+        "title": "Prompt Engineering for Everyone — IBM Cognitive Class",
+        "url": "https://cognitiveclass.ai/courses/prompt-engineering-for-everyone",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2026-10-25",
+      "reviewLead": "Sibling leads"
+    },
+    {
+      "id": "m2",
+      "number": 2,
+      "date": "2026-11-01",
+      "title": "Better questions and AI feedback",
+      "weeks": [
+        "Continue the same course. Practise context + your attempt + exact difficulty + requested help.",
+        "Improve five vague questions from your actual coursework. Ask AI to quiz you one question at a time.",
+        "Draft your own answer. Ask AI to identify missing evidence or unclear reasoning without rewriting it.",
+        "Finish relevant course lessons. Explain three concepts without the tool. Use brief, checkable explanations and verify answers."
+      ],
+      "result": "Ten improved questions and three before-and-after examples of your own reasoning.",
+      "resource": {
+        "title": "Prompt Engineering for Everyone — IBM Cognitive Class",
+        "url": "https://cognitiveclass.ai/courses/prompt-engineering-for-everyone",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2026-11-29",
+      "reviewLead": "Sibling leads"
+    },
+    {
+      "id": "m3",
+      "number": 3,
+      "date": "2026-12-01",
+      "title": "Independent thinking and evidence in the age of AI",
+      "weeks": [
+        "Watch the TED video. Separate a claim, supporting evidence and an opinion in one article. Identify where AI could replace your own thinking.",
+        "Trace one online claim to its original source. Check author, date, context and what the source actually supports.",
+        "Compare two explanations of the same issue. Write the strongest evidence for each and what remains unknown.",
+        "Investigate one AI answer independently. Write your conclusion first, then invite criticism of it."
+      ],
+      "result": "Four source checks, including one AI claim. Explain your conclusion and uncertainty without AI.",
+      "resource": {
+        "title": "How to stop AI from killing your critical thinking — Advait Sarkar, TED",
+        "url": "https://www.ted.com/talks/advait_sarkar_how_to_stop_ai_from_killing_your_critical_thinking",
+        "embed": "https://embed.ted.com/talks/advait_sarkar_how_to_stop_ai_from_killing_your_critical_thinking"
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2026-12-27",
+      "reviewLead": "Sibling leads"
+    },
+    {
+      "id": "m4",
+      "number": 4,
+      "date": "2027-01-01",
+      "title": "Social media for career: LinkedIn + Instagram or TikTok; then career in the age of AI",
+      "weeks": [
+        "Weeks 1–2: Study the free Social Media Marketing course. Build an accurate LinkedIn student profile and choose Instagram or TikTok to showcase your original journalism work.",
+        "Weeks 1–2: Follow credible journalists and newsrooms. Publish one original learning reflection on LinkedIn and one useful post on your chosen second platform. Check facts, permissions and privacy.",
+        "Week 3: Career in the age of AI. Compare reporting, editing and communications roles. List tasks AI can assist with and skills you must practise yourself: verification, interviewing, judgement and original writing.",
+        "Week 4: Choose two career directions to explore. Identify one campus activity for each. Explain your choices without AI and review them with your sibling."
+      ],
+      "result": "Accurate LinkedIn profile, one second platform, two original posts and a one-page career map showing AI-assisted tasks and human responsibilities.",
+      "resource": {
+        "title": "Social Media Marketing — HubSpot Academy (free course)",
+        "url": "https://academy.hubspot.com/courses/social-media",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-01-31",
+      "reviewLead": "Student brings agenda"
+    },
+    {
+      "id": "m5",
+      "number": 5,
+      "date": "2027-02-01",
+      "title": "Digital organisation and security",
+      "weeks": [
+        "Study Internet Safety. Create unit folders, a source notebook and a clearly labelled portfolio folder.",
+        "Use unique passwords and two-step verification. Check recovery details and document-sharing permissions.",
+        "Back up important coursework. Build a calendar of deadlines and practise recognising suspicious links and messages.",
+        "Demonstrate safe sharing and restoring a backed-up file. Record where coursework, sources and final work belong."
+      ],
+      "result": "Organised files, deadline calendar, secure accounts and a tested backup. Never show passwords at review.",
+      "resource": {
+        "title": "Internet Safety — LearnFree",
+        "url": "https://www.learnfree.org/series/internet-safety",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-02-28",
+      "reviewLead": "Student brings agenda"
+    },
+    {
+      "id": "m6",
+      "number": 6,
+      "date": "2027-03-01",
+      "title": "Self-management and learning habits",
+      "weeks": [
+        "Study Learning how to learn. Plan one realistic week around lectures, rest, meals, worship and study.",
+        "After lectures, close notes and recall key ideas. Keep phone notifications off during focused study.",
+        "Track spending and missed deadlines. Adjust one habit causing difficulty. Ask a lecturer for help when needed.",
+        "Review four weeks of your routine. Keep what worked and remove unnecessary activities. Plan exam weeks lightly."
+      ],
+      "result": "Four weekly plans, a simple spending record and evidence of learning without reminders.",
+      "resource": {
+        "title": "Learning how to learn — OpenLearn",
+        "url": "https://www.open.edu/openlearn/education-development/learning-how-learn/content-section-0",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-03-28",
+      "reviewLead": "Student brings agenda"
+    },
+    {
+      "id": "m7",
+      "number": 7,
+      "date": "2027-04-01",
+      "title": "Discovering strengths through coursework",
+      "weeks": [
+        "Study only Weeks 1–2 of Succeed in the workplace. Identify interests, values and activities you voluntarily return to.",
+        "Gather three coursework examples and lecturer feedback. Record your contribution to group work.",
+        "Use one campus or church activity to try a small responsibility. Request specific feedback on what you did well.",
+        "Compare enjoyment, quality, improvement and initiative across examples. Choose two promising strengths for further practice."
+      ],
+      "result": "A strengths record supported by three pieces of work and feedback. No fixed personality label.",
+      "resource": {
+        "title": "Succeed in the workplace — OpenLearn",
+        "url": "https://www.open.edu/openlearn/education-development/succeed-the-workplace/content-section-overview",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-04-25",
+      "reviewLead": "Student leads"
+    },
+    {
+      "id": "m8",
+      "number": 8,
+      "date": "2027-05-01",
+      "title": "Professional communication and relationships",
+      "weeks": [
+        "Study Business Communication. Write a clear email with a useful subject line, context and one specific request.",
+        "Practise a 30-second introduction. Ask a lecturer or senior student one purposeful question.",
+        "Have two further conversations about study, career paths or practical opportunities. Record what you learned.",
+        "Follow up politely and apply one piece of feedback. Discuss how you responded to criticism or disagreement."
+      ],
+      "result": "Professional introduction, three purposeful conversations and a feedback-and-follow-up record.",
+      "resource": {
+        "title": "Business Communication — LearnFree",
+        "url": "https://www.learnfree.org/series/business-communication",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-05-30",
+      "reviewLead": "Student leads"
+    },
+    {
+      "id": "m9",
+      "number": 9,
+      "date": "2027-06-01",
+      "title": "Digital audiences and content planning",
+      "weeks": [
+        "Study Social Media Marketing. Define one audience, its needs and the purpose of a small content project.",
+        "Make a four-week content calendar for a campus club or personal project. Obtain permission before managing an account.",
+        "Publish two useful items based on your own work. Label promotional work and keep reporting independent.",
+        "Compare engagement and audience feedback. Explain one change you would make. Confirm your main strength and supporting skill."
+      ],
+      "result": "Content calendar, two published items and an evidence-based improvement. Use the strength record from Month 7.",
+      "resource": {
+        "title": "Social Media Marketing — HubSpot Academy",
+        "url": "https://academy.hubspot.com/courses/social-media",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-06-27",
+      "reviewLead": "Student leads"
+    },
+    {
+      "id": "m10",
+      "number": 10,
+      "date": "2027-07-01",
+      "title": "Portfolio and clear personal positioning",
+      "weeks": [
+        "Study Resume Writing. Select six existing pieces that show your strongest skills and permission to share.",
+        "Write a one-page student CV. Use accurate education, activities, skills and evidence of your own contributions.",
+        "Organise a view-only portfolio folder with a contents document. For each piece, state your role, date and what it demonstrates.",
+        "Ask a lecturer or editor for feedback. Revise the CV and portfolio. Test the shared link in a signed-out window."
+      ],
+      "result": "One-page CV, six-piece portfolio and a clear two-sentence professional introduction.",
+      "resource": {
+        "title": "Resume Writing — LearnFree",
+        "url": "https://www.learnfree.org/series/resume-writing",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-07-25",
+      "reviewLead": "Student sets goals and leads"
+    },
+    {
+      "id": "m11",
+      "number": 11,
+      "date": "2027-08-01",
+      "title": "Finding and evaluating opportunities",
+      "weeks": [
+        "Return to selected sections of Succeed in the workplace: opportunities, networks, applications and action planning.",
+        "Identify six suitable student opportunities through campus media, local publications or communications teams. Verify the organisation.",
+        "Prepare and send two tailored applications or pitches. Clarify duties, hours, payment and ownership before accepting work.",
+        "Send two more tailored applications or pitches. Record follow-up dates. Never pay an application or recruitment fee."
+      ],
+      "result": "Four genuine applications or pitches, a follow-up tracker and one realistic next action.",
+      "resource": {
+        "title": "Succeed in the workplace — OpenLearn",
+        "url": "https://www.open.edu/openlearn/education-development/succeed-the-workplace/content-section-overview",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-08-29",
+      "reviewLead": "Student sets goals and leads"
+    },
+    {
+      "id": "m12",
+      "number": 12,
+      "date": "2027-09-01",
+      "title": "Independent work and next-year planning",
+      "weeks": [
+        "Study Freelancing 101. Choose one small project in your strongest area. Agree scope, audience, deadline and permissions.",
+        "Write a simple task plan and deliver the first draft. Use AI only after your own attempt and record how it helped.",
+        "Request feedback, revise and deliver. Keep scope manageable. Paid work is optional, not a completion requirement.",
+        "Evaluate the project yourself. Update your portfolio and write a 90-day plan. Lead the final sibling review."
+      ],
+      "result": "One completed project, updated portfolio and a self-written 90-day plan with clear goals.",
+      "resource": {
+        "title": "Freelancing 101 — LearnFree",
+        "url": "https://www.learnfree.org/series/freelancing-101",
+        "embed": null
+      },
+      "initialStatus": "Not started",
+      "reviewDate": "2027-09-26",
+      "reviewLead": "Student sets goals and leads"
+    }
+  ],
+  "habits": [
+    {
+      "id": "h1",
+      "title": "Monthly learning",
+      "minutes": 60,
+      "how": "Use only the month’s assigned resource. Months 1–2 share one course. Month 4 covers social media first, then career in the age of AI. Month 7 uses only Weeks 1–2 of the career course.",
+      "evidence": "Explain one useful idea in your own words."
+    },
+    {
+      "id": "h2",
+      "title": "Practical application",
+      "minutes": 60,
+      "how": "Complete the weekly task using actual coursework or a small campus activity. Two short sessions should be without AI.",
+      "evidence": "Keep your original attempt and revised result."
+    },
+    {
+      "id": "h3",
+      "title": "Independent reading",
+      "minutes": 15,
+      "how": "Read one substantial news item. Identify its claim, evidence and unanswered questions.",
+      "evidence": "Three brief notes written without AI."
+    },
+    {
+      "id": "h4",
+      "title": "Weekly reflection",
+      "minutes": 15,
+      "how": "Record what worked, what was difficult and one next action.",
+      "evidence": "A dated entry in your notebook."
+    },
+    {
+      "id": "h5",
+      "title": "Faith reading",
+      "minutes": 30,
+      "how": "Read Mind, Character, and Personality, Volume 1 for 15 minutes twice weekly. Read in order at your own pace.",
+      "evidence": "One idea, one question and one action."
+    }
+  ],
+  "rules": [
+    {
+      "title": "Attempt first",
+      "text": "Spend at least 15 minutes reading, thinking or drafting before using AI. Save your initial attempt."
+    },
+    {
+      "title": "Ask for limited help",
+      "text": "Ask for hints, examples, a quiz or criticism. Ask the tool not to replace your answer."
+    },
+    {
+      "title": "Verify",
+      "text": "Check factual claims against original sources. Open references. Never invent quotes, sources, interviewees or observations."
+    },
+    {
+      "title": "Explain independently",
+      "text": "Close AI and notes. Explain the concept yourself. If you cannot, return to the material."
+    },
+    {
+      "title": "Respect rules and privacy",
+      "text": "Follow each lecturer’s AI rules. Do not upload private source material, classmates’ details or confidential work."
+    },
+    {
+      "title": "Question template",
+      "text": "I am working on __. My understanding is __. I tried __. I am stuck on __. Help me by __."
+    },
+    {
+      "title": "Example prompt",
+      "text": "I wrote this interpretation myself. Ask three questions that reveal gaps in my reasoning. Do not rewrite my answer."
+    },
+    {
+      "title": "Social media routine",
+      "text": "Use LinkedIn for professional visibility and Instagram or TikTok to showcase original journalism work. Keep notifications off during study. Limit recreational scrolling to 30 minutes daily."
+    },
+    {
+      "title": "Strengths record",
+      "text": "From Month 1, save coursework and feedback. Record enjoyment, quality, improvement and initiative. Identify two promising strengths at Month 7, then a main and supporting skill at Month 9."
+    },
+    {
+      "title": "Faith reflection",
+      "text": "Read devotionally. Discuss questions honestly. Use the book for faith and character reflection rather than as a scientific psychology textbook."
+    },
+    {
+      "title": "Free learning",
+      "text": "All assigned learning resources are free. A free account may be needed. Use the specified lessons rather than adding more courses. Learning links checked 2 October 2026."
+    },
+    {
+      "title": "Annual outcome",
+      "text": "Six strong portfolio pieces, one independent project, four applications or pitches, and a self-written 90-day plan."
+    }
+  ],
+  "book": {
+    "title": "Mind, Character, and Personality, Volume 1",
+    "url": "https://m.egwwritings.org/en/book/77.1043/toc"
+  }
+}

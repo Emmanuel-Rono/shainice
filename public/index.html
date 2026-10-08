@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f8f9f8">
+  <meta name="description" content="A first-year learning programme: thoughtful AI use, digital skills, personal growth and monthly sibling reviews.">
+  <title>Fieldnotes — Learning dashboard</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to learning</a>
+  <div class="shell">
+    <aside class="sidebar" aria-label="Dashboard navigation">
+      <a href="#today" class="brand"><span class="brand-mark" aria-hidden="true">f.</span>fieldnotes<span class="brand-dot" aria-hidden="true">●</span></a>
+      <p class="eyebrow sidebar-label">YOUR FIRST YEAR</p>
+      <nav id="navigation">
+        <a href="#today" data-page="today"><span class="nav-icon" aria-hidden="true">◷</span>My learning</a>
+        <a href="#programme" data-page="programme"><span class="nav-icon" aria-hidden="true">▤</span>Year programme</a>
+        <a href="#habits" data-page="habits"><span class="nav-icon" aria-hidden="true">☑</span>Weekly habits</a>
+        <a href="#work" data-page="work"><span class="nav-icon" aria-hidden="true">▧</span>My work & strengths</a>
+        <a href="#reviews" data-page="reviews"><span class="nav-icon" aria-hidden="true">◎</span>Sibling reviews</a>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="mode-label eyebrow">VIEW AS</div>
+        <div class="segmented" aria-label="Dashboard view">
+          <button type="button" data-role="student" class="selected">Student</button>
+          <button type="button" data-role="sibling">Sibling</button>
+        </div>
+        <p class="quiet small">A little progress, every week.</p>
+        <button type="button" id="settings-button" class="text-button">Settings & backup <span aria-hidden="true">↗</span></button>
+      </div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar">
+        <span class="eyebrow">JOURNALISM / PERSONAL DEVELOPMENT</span>
+        <div class="topbar-actions"><span id="save-status" class="save-status" role="status">Loading…</span><button id="connect-button" class="button compact">Connect shared space</button></div>
+      </header>
+      <main id="main" tabindex="-1"><p class="loading">Opening your programme…</p></main>
+      <footer><span>October 2026 — September 2027</span><span>Think first. Learn deliberately.</span></footer>
+    </div>
+  </div>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="connect-dialog">
+    <form id="connect-form">
+      <div class="dialog-heading"><h2>One shared learning space</h2><button type="button" data-close="connect-dialog" class="icon-button" aria-label="Close">×</button></div>
+      <p>Use the same access code on both devices. Tasks, notes and reviews will sync when online.</p>
+      <p class="quiet small">Your saved work on this device will be merged into the shared space. The access code stays out of your browser’s saved data.</p>
+      <label for="access-code">Access code</label><input id="access-code" type="password" autocomplete="current-password" required minlength="16">
+      <p id="connect-error" class="error" role="alert"></p>
+      <button class="button primary" id="connect-submit">Connect</button>
+    </form>
+  </dialog>
+  <dialog id="settings-dialog">
+    <div class="dialog-heading"><h2>Settings & backup</h2><button type="button" data-close="settings-dialog" class="icon-button" aria-label="Close">×</button></div>
+    <label for="student-name">Student’s first name</label><input id="student-name" maxlength="50" placeholder="Your name">
+    <p class="quiet small">Changes save automatically. Student and sibling views organise the screen; both can edit the shared programme.</p>
+    <div class="settings-actions"><button class="button" id="export-button">Export backup</button><label class="button file-button" for="import-file">Import backup</label><input type="file" id="import-file" accept="application/json,.json" hidden><button class="button" id="print-button">Print progress</button></div>
+    <p class="quiet small">Backups contain your notes and evidence links. Imports merge newer entries rather than erase existing work.</p>
+    <div class="settings-actions"><button class="button" id="sync-button">Sync now</button><button class="text-button" id="disconnect-button">Disconnect shared space</button></div>
+    <p id="settings-status" class="quiet small"></p>
+  </dialog>
+  <noscript><p>Please enable JavaScript to use the learning tracker.</p></noscript>
+</body>
+</html>
